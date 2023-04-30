@@ -1,0 +1,7 @@
+version: "3"
+services:
+    core_api:
+       build: .
+         container_name: "core-api-cotainer"
+         ports:
+           - "8000:15400"
