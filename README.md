@@ -6,7 +6,7 @@
 Instructions on how to install the project.
 
 1. Clone this repository to your local machine  
-2. Navigate to the project directory using `cd BlogProject`
+2. Navigate to the project directory using `cd BookAPI`
 3. Create a virtual environment for the project using `python -m venv env`.
 4. Activate the virtual environment using `source env/bin/activate` (Linux/macOS) or `env\Scripts\activate.bat` (Windows).
 5. Install the project dependencies using `pip install -r requirements.txt`.
@@ -17,7 +17,7 @@ Instructions on how to install the project.
 7. Run the project using `uvicorn main:app`.
 
 
-Instructions on how to use the project.
+#### visit `localhost:8000/docs` to view all url endpoints. Thank You
 
 
 
